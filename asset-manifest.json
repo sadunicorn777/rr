@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.css": "/rr/static/css/main.073c9b0a.css",
-    "main.js": "/rr/static/js/main.222788de.js",
-    "static/media/logo.svg": "/rr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/rr/static/css/main.33bde141.css",
+    "main.js": "/rr/static/js/main.e0eb1928.js",
+    "static/media/demo.mov": "/rr/static/media/demo.b640cb7b50848130ba86.mov",
+    "static/media/desktop3.png": "/rr/static/media/desktop3.c0f3b20887de4829b322.png",
+    "static/media/lofi.png": "/rr/static/media/lofi.7840cd091852453eaabb.png",
+    "static/media/desktop1.png": "/rr/static/media/desktop1.f6abc89adafa23e1bdb4.png",
+    "static/media/lofi2.png": "/rr/static/media/lofi2.cff04b5e6e0ec0ce7b22.png",
+    "static/media/zara.png": "/rr/static/media/zara.71807ab6b172fffb78b6.png",
+    "static/media/desktop2.png": "/rr/static/media/desktop2.1e6cebbd42a1aadcb74d.png",
+    "static/media/tablet.png": "/rr/static/media/tablet.2d0f333dbdf5802d6397.png",
+    "static/media/mobile.png": "/rr/static/media/mobile.75bc547f28f287af6d2b.png",
+    "static/media/styleguide.png": "/rr/static/media/styleguide.924b0f66363f88664765.png",
     "index.html": "/rr/index.html",
-    "main.073c9b0a.css.map": "/rr/static/css/main.073c9b0a.css.map",
-    "main.222788de.js.map": "/rr/static/js/main.222788de.js.map"
+    "main.33bde141.css.map": "/rr/static/css/main.33bde141.css.map",
+    "main.e0eb1928.js.map": "/rr/static/js/main.e0eb1928.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.222788de.js"
+    "static/css/main.33bde141.css",
+    "static/js/main.e0eb1928.js"
   ]
 }
