@@ -258,7 +258,7 @@ user, when used under specified conditions.</p>
 
               <div class="m-spacer" />
 
-              <video style={{width: "50vw"}} autoplay="true" controls="controls" src={require("./images/demo.mov")}></video>
+              <video style={{width: "50vw"}} autoplay="true" controls="controls" src={require("./demo.mov")}></video>
 
               <div class="spacer" />
               <div class="spacer" />
